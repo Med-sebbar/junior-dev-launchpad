@@ -8,7 +8,7 @@ Technologies utilisées
 - React
 - Vite
 - Tailwind CSS
-- JavaScript
+- TypeScript
 - HTML / CSS
 
 Projets présentés
