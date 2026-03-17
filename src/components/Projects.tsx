@@ -3,22 +3,23 @@ import { ExternalLink, Github, X, ChevronLeft, ChevronRight } from "lucide-react
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 
-import ssDashboard    from "@/assets/oceanstock-screenshots/Dashboard.png";
-import ssAlertes      from "@/assets/oceanstock-screenshots/Alertes.png";
-import ssAnalytique   from "@/assets/oceanstock-screenshots/Analytique.png";
-import ssBonsAchat    from "@/assets/oceanstock-screenshots/Bons-d'achat.png";
-import ssCategorie    from "@/assets/oceanstock-screenshots/Categorie.png";
-import ssCommandes    from "@/assets/oceanstock-screenshots/Commandes.png";
-import ssFactures     from "@/assets/oceanstock-screenshots/Factures.png";
-import ssLogin        from "@/assets/oceanstock-screenshots/Login.png";
-import ssLots         from "@/assets/oceanstock-screenshots/Lots.png";
-import ssMouvements   from "@/assets/oceanstock-screenshots/Mouvements.png";
-import ssPaiements    from "@/assets/oceanstock-screenshots/paiements.png";
-import ssParametres   from "@/assets/oceanstock-screenshots/Paramètres.png";
-import ssProduit      from "@/assets/oceanstock-screenshots/Produit.png";
-import ssUtilisateurs from "@/assets/oceanstock-screenshots/Utilisateurs.png";
+import ssDashboard    from "@/assets/Dashboard.png";
+import ssAlertes      from "@/assets/Alertes.png";
+import ssAnalytique   from "@/assets/Analytique.png";
+import ssBonsAchat    from "@/assets/Bons-d'achat.png";
+import ssCategorie    from "@/assets/Categorie.png";
+import ssCommandes    from "@/assets/Commandes.png";
+import ssFactures     from "@/assets/Factures.png";
+import ssLogin        from "@/assets/Login.png";
+import ssLots         from "@/assets/Lots.png";
+import ssMouvements   from "@/assets/Mouvements.png";
+import ssPaiements    from "@/assets/paiements.png";
+import ssParametres   from "@/assets/Paramètres.png";
+import ssProduit      from "@/assets/Produit.png";
+import ssUtilisateurs from "@/assets/Utilisateurs.png";
 
 const oceanstockDashboard = ssDashboard;
+
 const screenshots = [
   { src: ssDashboard,    label: "Dashboard" },
   { src: ssAnalytique,   label: "Analytique" },
