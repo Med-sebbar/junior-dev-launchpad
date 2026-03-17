@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 import ssDashboard    from "@/assets/Dashboard.png";
 import ssAlertes      from "@/assets/Alertes.png";
 import ssAnalytique   from "@/assets/Analytique.png";
-import ssBonsAchat    from "@/assets/Bons-d'achat.png";
+import ssBonsAchat    from "@/assets/Bons-dachat.png";
 import ssCategorie    from "@/assets/Categorie.png";
 import ssCommandes    from "@/assets/Commandes.png";
 import ssFactures     from "@/assets/Factures.png";
