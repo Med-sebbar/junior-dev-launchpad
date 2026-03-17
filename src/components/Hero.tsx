@@ -1,6 +1,6 @@
 import { ArrowDown, FileDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import cv from "@/assets/Mohamed-Sebbar-CV.pdf";
+import cv from "@/assets/CVFullStack.pdf";
 
 
 const Hero = () => {
