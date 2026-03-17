@@ -26,7 +26,7 @@ const Hero = () => {
         <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-up opacity-0 animation-delay-600">
           <div className="flex justify-start mb-10">
   <span className="inline-flex items-center whitespace-nowrap rounded-full border border-secondary-foreground/20 bg-secondary-foreground/10 px-4 py-2 text-sm text-secondary-foreground/80">
-    Montréal, QC • Disponible • Temps plein / Stage
+    Montréal, QC • Disponible •
   </span>
 </div>
 
