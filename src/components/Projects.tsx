@@ -3,21 +3,22 @@ import { ExternalLink, Github, X, ChevronLeft, ChevronRight } from "lucide-react
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 
-const oceanstockDashboard = "/images/oceanstock-screenshots/Dashboard.png";
-const ssAlertes      = "/images/oceanstock-screenshots/Alertes.png";
-const ssAnalytique   = "/images/oceanstock-screenshots/Analytique.png";
-const ssBonsAchat    = "/images/oceanstock-screenshots/Bons-d'achat.png";
-const ssCategorie    = "/images/oceanstock-screenshots/Categorie.png";
-const ssCommandes    = "/images/oceanstock-screenshots/Commandes.png";
-const ssDashboard    = "/images/oceanstock-screenshots/Dashboard.png";
-const ssFactures     = "/images/oceanstock-screenshots/Factures.png";
-const ssLogin        = "/images/oceanstock-screenshots/Login.png";
-const ssLots         = "/images/oceanstock-screenshots/Lots.png";
-const ssMouvements   = "/images/oceanstock-screenshots/Mouvements.png";
-const ssPaiements    = "/images/oceanstock-screenshots/paiements.png";
-const ssParametres   = "/images/oceanstock-screenshots/Paramètres.png";
-const ssProduit      = "/images/oceanstock-screenshots/Produit.png";
-const ssUtilisateurs = "/images/oceanstock-screenshots/Utilisateurs.png";
+import ssDashboard    from "@/assets/oceanstock-screenshots/Dashboard.png";
+import ssAlertes      from "@/assets/oceanstock-screenshots/Alertes.png";
+import ssAnalytique   from "@/assets/oceanstock-screenshots/Analytique.png";
+import ssBonsAchat    from "@/assets/oceanstock-screenshots/Bons-d'achat.png";
+import ssCategorie    from "@/assets/oceanstock-screenshots/Categorie.png";
+import ssCommandes    from "@/assets/oceanstock-screenshots/Commandes.png";
+import ssFactures     from "@/assets/oceanstock-screenshots/Factures.png";
+import ssLogin        from "@/assets/oceanstock-screenshots/Login.png";
+import ssLots         from "@/assets/oceanstock-screenshots/Lots.png";
+import ssMouvements   from "@/assets/oceanstock-screenshots/Mouvements.png";
+import ssPaiements    from "@/assets/oceanstock-screenshots/paiements.png";
+import ssParametres   from "@/assets/oceanstock-screenshots/Paramètres.png";
+import ssProduit      from "@/assets/oceanstock-screenshots/Produit.png";
+import ssUtilisateurs from "@/assets/oceanstock-screenshots/Utilisateurs.png";
+
+const oceanstockDashboard = ssDashboard;
 const screenshots = [
   { src: ssDashboard,    label: "Dashboard" },
   { src: ssAnalytique,   label: "Analytique" },
